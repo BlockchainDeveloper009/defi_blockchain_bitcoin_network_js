@@ -22,6 +22,10 @@ The models were developed to study systems like distributed databases
 
 Every block contains hash of the block it extends
 image.png
+Double spend probability: this decreases exponentially with # of confirmations
+Most common heruuistic: 6 confirmations;
 
+Incentives & Proof of work:
+block reward: 
 
-
+`
