@@ -28,4 +28,14 @@ Most common heruuistic: 6 confirmations;
 Incentives & Proof of work:
 block reward: 
 
-`
+Double Spending attack:
+
+Types of Consensus Protocols:
+Proof-of-work:
+Proof-of-Staking: forgers stake their tokens and has probability to be block validator
+Delegated Proof-of-stake: Instead of probability cryptocurrency holders are able to cast votes apportioned 
+Proof-of-Authority: Arguably more centralized again, PoA has predetermined block validators. New blocks on a blockchain are only created when the validators are in majority. The protocol is similar to PoS. The validators are publicly known and accountable for determining their role and eligibility for PoS validation. A newer blockchain, Elysian, uses PoA as well as some Ethereum testnets, or test blockchains.
+Types of Blockchain  attacks:
+`Sybil attack:   Proof-of-work has protected froom this attack
+Routing attack: In a routing attack, a hacker intercepts data as its sent to an ISP. Once they're in, a hacker can split the network into partitions.`
+
